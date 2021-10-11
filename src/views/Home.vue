@@ -4,6 +4,12 @@
   </div>
 </template>
 
+<style>
+img {
+  width: 250px;
+}
+</style>
+
 <style></style>
 
 <script>
